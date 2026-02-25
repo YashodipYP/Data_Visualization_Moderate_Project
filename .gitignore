@@ -1,0 +1,12 @@
+# Ignore the massive dataset (GitHub blocks files over 100MB)
+zomato.csv
+
+# Ignore Jupyter Notebook auto-saves and checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Mac/Windows hidden system files
+.DS_Store
+Thumbs.db

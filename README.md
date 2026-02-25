@@ -32,3 +32,9 @@ Through univariate and bivariate analysis, several key trends were identified:
 2. Ensure you have the required libraries installed: `pip install -r requirements.txt`
 3. Download the `zomato.csv` dataset from Kaggle and place it in the same directory.
 4. Run the `zomato_eda.ipynb` notebook to view the analysis and graphs.
+
+5. ### 📂 Dataset
+The dataset used in this project is the **Zomato Bangalore Restaurants** dataset. 
+Due to its large size, it is not hosted in this repository. 
+You can download the raw CSV file directly from Kaggle here: 
+[Zomato Bangalore Dataset on Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
